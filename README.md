@@ -1,4 +1,4 @@
-# CocoaHeadsBrasil Vagas
+# Vagas do grupo Baixada Nerd Vagas
 
 Espaço para a divulgação de vagas para desenvolvedores via issues do GitHub.
 
