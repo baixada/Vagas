@@ -1,4 +1,4 @@
-# Vagas do grupo Baixada Nerd Vagas
+# Vagas do grupo Baixada Nerd
 
 Espaço para a divulgação de vagas para desenvolvedores via issues do GitHub.
 
